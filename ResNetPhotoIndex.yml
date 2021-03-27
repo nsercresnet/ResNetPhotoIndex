@@ -1,0 +1,12 @@
+...
+field_photos/index.txt :
+    project_name
+        description: "A sample project examining something somewhere."
+        filename1.jpg
+            caption: "A sample person doing a sample thing." # ideally can differentiate from within this doc
+            people: "Left to right: Sample McSampleson, John Doe, Bob Suruncle" # if applicable/available
+            credit: "Sample McSampleson"
+            date: # at whatever/if any specificity provided
+            notes:  # additional info/context beyond caption. Could be copy/paste from email
+        filename2.jpg
+...
