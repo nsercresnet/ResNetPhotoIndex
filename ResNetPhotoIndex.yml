@@ -1,12 +1,56 @@
 ...
-field_photos/index.txt :
-    project_name
-        description: "A sample project examining something somewhere."
-        filename1.jpg
-            caption: "A sample person doing a sample thing." # ideally can differentiate from within this doc
-            people: "Left to right: Sample McSampleson, John Doe, Bob Suruncle" # if applicable/available
-            credit: "Sample McSampleson"
-            date: # at whatever/if any specificity provided
-            notes:  # additional info/context beyond caption. Could be copy/paste from email
-        filename2.jpg
+project: Carly
+    question: "How do small forest patches combat biodiversity loss and fight climate change?" # Alternatives "Does tree biodiversity correspond to increased carbon storage in Quebec’s woodlots?" "Can increased tree biodiversity help Quebec’s woodlots fight climate change?" "Are small forest patches a win-win for biodiversity conservation and climate change?"
+    methods: "We set up linear transects from the edge to interior of 24 different forest patches, and measured tree species and size to calculate tree diversity and carbon stocks."
+    headline: "Ecosystem services were affected by both distance-from-forest and forest fragment isolation across the wider landscape, highlighting the importance of actively managing forest fragments and landscape structure to increase multifunctionality."
+    results: "We observed both synergies and tradeoffs between biodiversity and carbon stocks, depending on forest management. Unmanaged forest stands stored less carbon on average than those managed (e.g., for maple syrup production), but demonstrated a positive relationship between functional diversity and aboveground carbon stocks. Managed stands exhibited a negative relationship between carbon and tree biodiversity, demonstrating that anthropogenic influence can alter the link between biodiversity and carbon stocks in natural systems."
+    MSH-20120810114732-2: 
+        people: #add later
+        credit: "Alex Tran"
+        date: #add later
+    MSH-20120810120220: 
+        caption: "the women who hugged 11 000 trees"
+        people: #add later
+        credit: "Alex Tran"
+        date: #add later
+    MSH-20120810115925: 
+        people: #add later
+        credit: "Alex Tran"
+        date: #add later
+...
+project: Dorothy
+    question: "How does forest fragmentation affect insect biodiversity in the treetops, and what are the consequences for functions and services in forest patches?  "
+    methods: "Using tree climbing techniques, we measured insect biodiversity and feeding activity on trees from the ground right up to the treetops in forest patches varying in size, and connection to other patches. "
+    headline: "Fragmentation mediates the impact of insect biodiversity on ecosystem functions and services. Even small forest patches were found to be essential reservoirs of biodiversity.   "
+    results: "Even small forest patches were found to be essential reservoirs for insect biodiversity.
+Insect herbivory is an essential ecosystem function that impacts many forest ecosystem services such as the recreational value of forests, and carbon sequestration. These effects are mediated by landscape connectivity. 
+More specifically, connectivity of forest patches mediates edge and canopy effects on insect herbivory. 
+Bird predation pressure on insect herbivores was negatively impacted by forest fragmentation, which could in part explain some of the effects of forest fragmentation on herbivory. "
+    IMG_0107
+        people: #add later
+        credit: "Alex Tran"
+        date: #add later
+    IMG_0108
+        people: #add later
+        credit: "Alex Tran"
+        date: #add later
+    IMG_0110
+        people: #add later
+        credit: "Alex Tran"
+        date: #add later
+    IMG_0112
+        people: #add later
+        credit: "Alex Tran"
+        date: #add later
+...
+project: Matt
+    question: "How do forest fragments in the Monteregie affect multiple ecosystem services in nearby agricultural fields?"
+    methods: "We measured indicators for six ecosystem services — including crop production, pest regulation, soil fertility, carbon storage, and water quality regulation — at increasing distances (0-500m) from forest fragments in 34 soybean fields."
+    headline: "Ecosystem services were affected by both distance-from-forest and forest fragment isolation across the wider landscape, highlighting the importance of actively managing forest fragments and landscape structure to increase multifunctionality."
+    results: "Both the isolation of forest fragments on the landscape and distances within soybean fields from adjacent forest fragments had significant effects on the provision of ecosystem services. Importantly, each ecosystem service showed distinct patterns of provision as landscape structure varied, thus providing evidence that landscape heterogeneity — the variety of forest and field types present in the landscape — is critical to ensure the provision of multiple ecosystem services."
+    IMGP0911: 
+        caption: "Measuring indicators at increasing distances (0-500m) from forest fragments in 34 soybean fields."
+        people: Matthew Mitchell 
+        credit: "Matthew Mitchell"
+        date: #add later
 ...
